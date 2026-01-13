@@ -2,7 +2,7 @@
   "miniprogramRoot": "dist/",
   "projectname": "hema_camera_miniprogram",
   "description": "",
-  "appid": "touristappid",
+  "appid": "wxe5a9ae456864b1d6",
   "setting": {
     "urlCheck": true,
     "es6": false,
@@ -35,5 +35,6 @@
     "ignore": [],
     "include": []
   },
-  "editorSetting": {}
+  "editorSetting": {},
+  "libVersion": "3.13.1"
 }
